@@ -1,3 +1,5 @@
+ <img src="/icon-128.png" />
+
 # Streamyard Shortcuts
 
 A cross browser extension that adds Google meet keybindings to Streamyard broadcasts
