@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es5",
+    "module": "esnext",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "declaration": false,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    /* Additional Checks */
+    "useDefineForClassFields": true,
+    "skipLibCheck": true
+  },
+  "include": ["source", "webpack.config.js"]
+}
