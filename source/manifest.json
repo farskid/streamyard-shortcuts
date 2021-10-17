@@ -9,7 +9,7 @@
     "48": "assets/icons/icon-48.png",
     "128": "assets/icons/icon-128.png"
   },
-  "description": "Adds Google meet shortcuts to StreamYard",
+  "description": "A cross browser extension that adds Google meet keybindings to Streamyard broadcasts",
   "homepage_url": "https://github.com/farskid/streamyard-shortcuts",
   "short_name": "StreamYard Shortcuts",
 
